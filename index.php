@@ -15,7 +15,7 @@
         <header>
            <nav>
                 <div class="logo">
-                    <a id="Priya" href="Home.html">Priya Saini</a>
+                    <a id="Priya" href="Home.php">Priya Saini</a>
                 </div>
                 <ul class="navlinks">
                     <li><a href="Resume.html">Resume </a></li> 
